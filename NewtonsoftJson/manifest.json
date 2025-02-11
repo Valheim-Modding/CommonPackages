@@ -1,0 +1,8 @@
+{
+  "name": "JsonDotNET",
+  "version_number": "13.0.3",
+  "website_url": "https://github.com/Valheim-Modding",
+  "description": "Shared version 13.0.3 of Json.NET from Newtonsoft, net45 package for use in Valheim mods. Maintained by the ValheimModding team.",
+  "dependencies": [
+  ]
+}
