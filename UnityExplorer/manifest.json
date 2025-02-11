@@ -1,0 +1,9 @@
+{
+  "name": "UnityExplorer",
+  "version_number": "4.9.0",
+  "website_url": "https://github.com/Valheim-Modding",
+  "description": "Shared version 4.9.0 of UnityExplorer for BepInEx5 from sinai-dev. Maintained by the ValheimModding team.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
