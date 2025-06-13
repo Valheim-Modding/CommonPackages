@@ -1,1 +1,6 @@
 .idea/
+
+bin
+obj
+
+Environment.props
