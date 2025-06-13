@@ -3,6 +3,8 @@
 Shared version 16.3.0 of YamlDotNet from Antoine Aubry and contributors, net47 package for use in Valheim mods.
 Maintained by the ValheimModding team.
 
+The Thunderstore package version may differ slightly from 16.3.0, and the detector shows 16.0.0 because of the internal YamlDotNet assembly version.
+
 ## Players
 
 This is an external dependency that mods can reference to help with usage and management of specific kinds of files.

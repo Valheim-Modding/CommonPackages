@@ -1,7 +1,7 @@
 {
   "name": "YamlDotNet",
-  "version_number": "16.3.0",
-  "website_url": "https://github.com/Valheim-Modding",
+  "version_number": "16.3.1",
+  "website_url": "https://github.com/Valheim-Modding/CommonPackages",
   "description": "Shared version 16.3.0 of YamlDotNet from Antoine Aubry and contributors, net47 package for use in Valheim mods. Maintained by the ValheimModding team.",
   "dependencies": [
   ]

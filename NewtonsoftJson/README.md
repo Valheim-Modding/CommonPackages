@@ -3,6 +3,8 @@
 Shared version 13.0.3 of Json.NET from Newtonsoft, net45 package for use in Valheim mods.
 Maintained by the ValheimModding team.
 
+The Thunderstore package version may differ slightly from 13.0.3, and the detector shows 13.0.0 because of the internal Newtonsoft.Json assembly version.
+
 ## Players
 
 This is an external dependency that mods can reference to help with usage and management of specific kinds of files.
